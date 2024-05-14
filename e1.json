@@ -1,0 +1,70 @@
+{
+  "costumers": [
+    {
+      "id": 1,
+      "nom": "Quim",
+      "data": {
+        "address": "Carrer Baix 1",
+        "telephone": "123456789",
+        "email": "",
+        "register_date": "05/12/2020"
+      },
+      "last_shoppings": [
+        {
+          "id": 1,
+          "brand": "Ray-Ban",
+          "graduation": {
+            "left": "1.0",
+            "right": "1.2"
+          },
+          "color": {
+            "left": "1.0",
+            "right": "1.2"
+          },
+          "frame": "Metallic",
+          "price": "127"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Anna",
+      "data": {
+        "address": "Carrer Alt 1",
+        "telephone": "987654321",
+        "email": "",
+        "register_date": "01/02/2023"
+      },
+      "last_shoppings": [
+        {
+          "id": 1,
+          "brand": "Adidas",
+          "graduation": {
+            "left": "1.0",
+            "right": "1.2"
+          },
+          "color": {
+            "left": "1.0",
+            "right": "1.2"
+          },
+          "frame": "Metallic",
+          "price": "127"
+        },
+        {
+          "id": 2,
+          "brand": "Oakley",
+          "graduation": {
+            "left": "1.0",
+            "right": "1.2"
+          },
+          "color": {
+            "left": "1.0",
+            "right": "1.2"
+          },
+          "frame": "Plastic",
+          "price": "200"
+        }
+      ]
+    }
+  ]
+}

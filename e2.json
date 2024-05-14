@@ -1,0 +1,76 @@
+{
+  "glasses": [
+    {
+      "id": 1,
+      "Brand": "Ray-Ban",
+      "frame": "Metallic",
+      "provider": {
+        "name": "SunGlasses",
+        "address": {
+          "street": "Carrer Major",
+          "number": "1",
+          "door": "3",
+          "city": "Barcelona",
+          "country": "Spain",
+          "postal_code": "08001"
+        },
+        "telephone": "123456789",
+        "fax": "",
+        "NIF": "123456789N"
+      },
+      "price": 100,
+      "costumers": [
+        {
+          "nom": "Anna",
+          "address": "Carrer Alt 1",
+          "telephone": "987654321",
+          "email": "",
+          "register_date": "01/02/2023"
+        },
+        {
+          "nom": "Pere",
+          "address": "Carrer Alt 3",
+          "telephone": "987654321",
+          "email": "",
+          "register_date": "01/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Brand": "Adidas",
+      "frame": "Plastic",
+      "provider": {
+        "name": "SunP",
+        "address": {
+          "street": "Carrer Random",
+          "number": "22",
+          "door": "2",
+          "city": "Barcelona",
+          "country": "Spain",
+          "postal_code": "08001"
+        },
+        "telephone": "123456789",
+        "fax": "",
+        "NIF": "123456789N"
+      },
+      "price": 75,
+      "costumers": [
+        {
+          "nom": "Toni",
+          "address": "Carrer Mig 14",
+          "telephone": "987654321",
+          "email": "",
+          "register_date": "01/02/2023"
+        },
+        {
+          "nom": "John",
+          "address": "Carrer Baix 34",
+          "telephone": "987654321",
+          "email": "",
+          "register_date": "01/02/2023"
+        }
+      ]
+    }
+  ]
+}
